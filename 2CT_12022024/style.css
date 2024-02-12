@@ -1,0 +1,29 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all {
+    border: 2px solid red;
+    border-radius: 25px;
+    width: 600px;
+    height: auto;
+    padding:15px;
+    margin: auto;
+}
+.osoby10_18 {
+    border: 2px solid green;
+    border-radius: 25px;
+    width: 600px;
+    height: auto;
+    padding:15px;
+    margin: auto;
+}
+.osoby19_50 {
+    border: 2px solid blue;
+    border-radius: 25px;
+    width: 600px;
+    height: auto;
+    padding:15px;
+    margin: auto;
+}
